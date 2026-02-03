@@ -1,0 +1,2 @@
+# Standard-Cell-Design-for-High-Density-ASICs-7nm-ASAP7-PDK-
+End-to-end custom standard cell design of a NAND2 gate using Cadence Virtuoso and Calibre with the ASAP7 7 nm technology. Includes schematic design with FO4 loading, pre- and post-layout HSPICE simulations, DRC/LVS-clean layout, parasitic extraction using xACT 3D, and comparison of timing characteristics between schematic and extracted views.
